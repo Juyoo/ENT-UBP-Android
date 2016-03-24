@@ -134,14 +134,14 @@ public class ProfileFragment extends Fragment {
 
     private void remplirAgenda(){
         listAgenda = new ArrayList<Agenda>();
-        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 6), "8:00 - 10:00", "Compilation", "3002"));
-        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 6), "8:00 - 10:00", "Compilation", "3002"));
-        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 7), "8:00 - 10:00", "Compilation", "3002"));
-        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 7), "8:00 - 10:00", "Compilation", "3002"));
-        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 7), "8:00 - 10:00", "Compilation", "3002"));
-        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 8), "8:00 - 10:00", "Compilation", "3002"));
-        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 9), "8:00 - 10:00", "Compilation", "3002"));
-        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 10), "8:00 - 10:00", "Compilation", "3002"));
+        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 24), "8:00 - 10:00", "Compilation", "3002"));
+        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 24), "8:00 - 10:00", "Compilation", "3002"));
+        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 24), "8:00 - 10:00", "Compilation", "3002"));
+        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 24), "8:00 - 10:00", "Compilation", "3002"));
+        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 25), "8:00 - 10:00", "Compilation", "3002"));
+        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 25), "8:00 - 10:00", "Compilation", "3002"));
+        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 26), "8:00 - 10:00", "Compilation", "3002"));
+        listAgenda.add(new Agenda(new GregorianCalendar(2016, 2, 27), "8:00 - 10:00", "Compilation", "3002"));
     }
 
 
